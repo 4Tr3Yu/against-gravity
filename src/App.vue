@@ -14,7 +14,7 @@ import { RouterLink, RouterView } from 'vue-router'
     </div>
   </header>
 
-  <main class="container min-h-svh mx-auto">
+  <main class="container min-h-svh mx-auto ">
     <RouterView />
   </main>
 </template>
